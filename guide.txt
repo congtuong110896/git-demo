@@ -1,0 +1,5 @@
+1. git init ( tạo thư mục .git )
+2. git status ( kiểm tra trạng thái repository) 
+3. git add . ( thêm tất cả các file vào staging area)
+4. git commit -m "message: (tạo ghi chú )
+touch index.html (tạo file index.html)
